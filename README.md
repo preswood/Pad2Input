@@ -7,9 +7,10 @@ A cross-platform reimagination of 00luca00's "Pad2Mouse" designed to act as an a
 | Analog and triggers to mouse control     | 🟢                 | 🟢                 |
 | Xbox controller support                  | 🟢                 | 🟢                 |
 | XInput support                           | 🟢                 |	🔴                 |
-| PlayStation controller support           | 🔴                 | 🟢                 |
-| Scrolling support                        | 🔴                 | 🔴                 |
-| On-screen configuration UI               | 🔴                 | 🟢                 |
+| PlayStation controller support           | 🟠                 | 🟢                 |
+| Scrolling support                        | 🟠                 | 🔴                 |
+| On-screen configuration UI               | 🟠                 | 🟢                 |
 | Windows support                          | 🟢                 | 🟢                 |
 | Macintosh support                        | 🔴                 | 🟢                 |
 | Linux/*nix support                       | 🔴                 | 🟢                 |
+| Language                                 | C#                 | Java               |
